@@ -1,0 +1,194 @@
+﻿Year,Period,Area,Series Code,Industry,Adjustment,Benchmark,No. of jobs,Production Workers,Weekly Earnings,Hourly Earnings,Hours Worked,Hierarchical Ordering
+2021,October,Texas,00000000,Total Nonfarm,Not Adjusted,2020,"12,986,400",N/A,N/A,N/A,N/A,1
+2021,October,Texas,00000000,Total Nonfarm,Adjusted,2020,"12,909,900",N/A,N/A,N/A,N/A,1
+2021,October,Texas,05000000,Total Private,Not Adjusted,2020,"10,987,100",N/A,N/A,N/A,N/A,2
+2021,October,Texas,05000000,Total Private,Adjusted,2020,"10,930,900",N/A,N/A,N/A,N/A,2
+2021,October,Texas,06000000,Goods Producing,Not Adjusted,2020,"1,830,800",N/A,N/A,N/A,N/A,3
+2021,October,Texas,06000000,Goods Producing,Adjusted,2020,"1,820,800",N/A,N/A,N/A,N/A,3
+2021,October,Texas,15000000,"Mining, Logging and Construction",Not Adjusted,2020,"944,300",N/A,N/A,N/A,N/A,4
+2021,October,Texas,15000000,"Mining, Logging and Construction",Adjusted,2020,"933,900",N/A,N/A,N/A,N/A,4
+2021,October,Texas,10000000,Mining and Logging,Not Adjusted,2020,"201,300","144,500",1474.25,30.21,48.8,5
+2021,October,Texas,10000000,Mining and Logging,Adjusted,2020,"199,600",N/A,N/A,N/A,N/A,5
+2021,October,Texas,10210000,"Mining, Quarrying, and Oil and Gas Extraction",Not Adjusted,2020,"199,500","142,300",1475.71,30.24,48.8,6
+2021,October,Texas,10211000,Oil and Gas Extraction,Not Adjusted,2020,"67,500",N/A,N/A,N/A,N/A,7
+2021,October,Texas,10213000,Support Activities for Mining,Not Adjusted,2020,"115,900",N/A,N/A,N/A,N/A,8
+2021,October,Texas,20000000,Construction,Not Adjusted,2020,"743,000",N/A,N/A,N/A,N/A,9
+2021,October,Texas,20000000,Construction,Adjusted,2020,"734,300",N/A,N/A,N/A,N/A,9
+2021,October,Texas,20236000,Construction of Buildings,Not Adjusted,2020,"161,000",N/A,N/A,N/A,N/A,10
+2021,October,Texas,20237000,Heavy and Civil Engineering Construction,Not Adjusted,2020,"155,700",N/A,N/A,N/A,N/A,11
+2021,October,Texas,20237100,Utility System Construction,Not Adjusted,2020,"96,900",N/A,N/A,N/A,N/A,12
+2021,October,Texas,20237300,"Highway, Street, and Bridge Construction",Not Adjusted,2020,"39,400",N/A,N/A,N/A,N/A,13
+2021,October,Texas,20238000,Specialty Trade Contractors,Not Adjusted,2020,"426,300",N/A,N/A,N/A,N/A,14
+2021,October,Texas,20238100,"Foundation, Structure, and Building Exterior Contractors",Not Adjusted,2020,"78,500",N/A,N/A,N/A,N/A,15
+2021,October,Texas,20238200,Building Equipment Contractors,Not Adjusted,2020,"209,700",N/A,N/A,N/A,N/A,16
+2021,October,Texas,20238300,Building Finishing Contractors,Not Adjusted,2020,"64,400",N/A,N/A,N/A,N/A,17
+2021,October,Texas,20238900,Other Specialty Trade Contractors,Not Adjusted,2020,"73,700",N/A,N/A,N/A,N/A,18
+2021,October,Texas,30000000,Manufacturing,Not Adjusted,2020,"886,500","634,300",1108.88,26.72,41.5,19
+2021,October,Texas,30000000,Manufacturing,Adjusted,2020,"886,900",N/A,N/A,N/A,N/A,19
+2021,October,Texas,31000000,Durable Goods,Not Adjusted,2020,"558,700","397,000",1247.84,29.64,42.1,20
+2021,October,Texas,31000000,Durable Goods,Adjusted,2020,"560,500",N/A,N/A,N/A,N/A,20
+2021,October,Texas,31321000,Wood Product Manufacturing,Not Adjusted,2020,"25,000",N/A,N/A,N/A,N/A,21
+2021,October,Texas,31327000,Nonmetallic Mineral Product Manufacturing,Not Adjusted,2020,"37,700",N/A,N/A,N/A,N/A,22
+2021,October,Texas,31327300,Cement and Concrete Product Manufacturing,Not Adjusted,2020,"23,100",N/A,N/A,N/A,N/A,23
+2021,October,Texas,31331000,Primary Metal Manufacturing,Not Adjusted,2020,"18,900",N/A,N/A,N/A,N/A,24
+2021,October,Texas,31331100,Iron and Steel Mills and Ferroalloy Manufacturing,Not Adjusted,2020,"4,700",N/A,N/A,N/A,N/A,25
+2021,October,Texas,31332000,Fabricated Metal Product Manufacturing,Not Adjusted,2020,"125,700","85,600",1018.28,27.01,37.7,26
+2021,October,Texas,31332300,Architectural and Structural Metals Manufacturing,Not Adjusted,2020,"47,300",N/A,N/A,N/A,N/A,27
+2021,October,Texas,31333000,Machinery Manufacturing,Not Adjusted,2020,"85,200",N/A,N/A,N/A,N/A,28
+2021,October,Texas,31333100,"Agriculture, Construction, and Mining Machinery Manufacturing",Not Adjusted,2020,"29,700",N/A,N/A,N/A,N/A,29
+2021,October,Texas,31334000,Computer and Electronic Product Manufacturing,Not Adjusted,2020,"95,700",N/A,N/A,N/A,N/A,30
+2021,October,Texas,31334200,Communications Equipment Manufacturing,Not Adjusted,2020,"11,200",N/A,N/A,N/A,N/A,31
+2021,October,Texas,31334400,Semiconductor and Other Electronic Component Manufacturing,Not Adjusted,2020,"42,700",N/A,N/A,N/A,N/A,32
+2021,October,Texas,31334500,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",Not Adjusted,2020,"20,400",N/A,N/A,N/A,N/A,33
+2021,October,Texas,31335000,"Electrical Equipment, Appliance, and Component Manufacturing",Not Adjusted,2020,"18,900",N/A,N/A,N/A,N/A,34
+2021,October,Texas,31336000,Transportation Equipment Manufacturing,Not Adjusted,2020,"94,200",N/A,N/A,N/A,N/A,35
+2021,October,Texas,31336100,Motor Vehicle Manufacturing,Not Adjusted,2020,"12,900",N/A,N/A,N/A,N/A,36
+2021,October,Texas,31336400,Aerospace Product and Parts Manufacturing,Not Adjusted,2020,"48,100",N/A,N/A,N/A,N/A,37
+2021,October,Texas,31337000,Furniture and Related Product Manufacturing,Not Adjusted,2020,"24,700",N/A,N/A,N/A,N/A,38
+2021,October,Texas,31339000,Miscellaneous durable goods manufacturing,Not Adjusted,2020,"32,700",N/A,N/A,N/A,N/A,39
+2021,October,Texas,32000000,Non-Durable Goods,Not Adjusted,2020,"327,800","237,300",873.45,21.62,40.4,40
+2021,October,Texas,32000000,Non-Durable Goods,Adjusted,2020,"326,400",N/A,N/A,N/A,N/A,40
+2021,October,Texas,32311000,Food Manufacturing,Not Adjusted,2020,"104,400",N/A,N/A,N/A,N/A,41
+2021,October,Texas,32311600,Animal Slaughtering and Processing,Not Adjusted,2020,"43,100",N/A,N/A,N/A,N/A,42
+2021,October,Texas,32312000,Beverage and Tobacco Product Manufacturing,Not Adjusted,2020,"19,800",N/A,N/A,N/A,N/A,43
+2021,October,Texas,32323000,Printing and Related Support Activities,Not Adjusted,2020,"21,700",N/A,N/A,N/A,N/A,44
+2021,October,Texas,32324000,Petroleum and Coal Products Manufacturing,Not Adjusted,2020,"21,800",N/A,N/A,N/A,N/A,45
+2021,October,Texas,32325000,Chemical Manufacturing,Not Adjusted,2020,"83,100",N/A,N/A,N/A,N/A,46
+2021,October,Texas,32325100,Basic Chemical Manufacturing,Not Adjusted,2020,"34,500",N/A,N/A,N/A,N/A,47
+2021,October,Texas,32325400,Pharmaceutical and Medicine Manufacturing,Not Adjusted,2020,"14,400",N/A,N/A,N/A,N/A,48
+2021,October,Texas,32326000,Plastics and Rubber Products Manufacturing,Not Adjusted,2020,"41,100",N/A,N/A,N/A,N/A,49
+2021,October,Texas,07000000,Service-Providing,Not Adjusted,2020,"11,155,600",N/A,N/A,N/A,N/A,50
+2021,October,Texas,07000000,Service-Providing,Adjusted,2020,"11,089,100",N/A,N/A,N/A,N/A,50
+2021,October,Texas,08000000,Private Service Providing,Not Adjusted,2020,"9,156,300",N/A,N/A,N/A,N/A,51
+2021,October,Texas,08000000,Private Service Providing,Adjusted,2020,"9,110,100",N/A,N/A,N/A,N/A,51
+2021,October,Texas,40000000,"Trade, Transportation, and Utilities",Not Adjusted,2020,"2,628,800",N/A,N/A,N/A,N/A,52
+2021,October,Texas,40000000,"Trade, Transportation, and Utilities",Adjusted,2020,"2,619,300",N/A,N/A,N/A,N/A,52
+2021,October,Texas,41000000,Wholesale Trade,Not Adjusted,2020,"623,200","496,900",1098.26,27.32,40.2,53
+2021,October,Texas,41000000,Wholesale Trade,Adjusted,2020,"622,400",N/A,N/A,N/A,N/A,53
+2021,October,Texas,41423000,"Merchant Wholesalers, Durable Goods",Not Adjusted,2020,"391,100",N/A,N/A,N/A,N/A,54
+2021,October,Texas,41423100,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,Not Adjusted,2020,"30,500",N/A,N/A,N/A,N/A,55
+2021,October,Texas,41423400,Professional and Commercial Equipment and Supplies Merchant Wholesalers,Not Adjusted,2020,"104,100",N/A,N/A,N/A,N/A,56
+2021,October,Texas,41423600,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers,Not Adjusted,2020,"41,700",N/A,N/A,N/A,N/A,57
+2021,October,Texas,41423800,"Machinery, Equipment, and Supplies Merchant Wholesalers",Not Adjusted,2020,"93,700","75,600",1086.89,25.94,41.9,58
+2021,October,Texas,41424000,"Merchant Wholesalers, Nondurable Goods",Not Adjusted,2020,"188,700",N/A,N/A,N/A,N/A,59
+2021,October,Texas,41424400,Grocery and Related Product Merchant Wholesalers,Not Adjusted,2020,"67,500",N/A,N/A,N/A,N/A,60
+2021,October,Texas,41424600,Chemical and Allied Products Merchant Wholesalers,Not Adjusted,2020,"18,900",N/A,N/A,N/A,N/A,61
+2021,October,Texas,41425000,Wholesale Electronic Markets and Agents and Brokers,Not Adjusted,2020,"43,400",N/A,N/A,N/A,N/A,62
+2021,October,Texas,42000000,Retail Trade,Not Adjusted,2020,"1,347,600",N/A,N/A,N/A,N/A,63
+2021,October,Texas,42000000,Retail Trade,Adjusted,2020,"1,344,600",N/A,N/A,N/A,N/A,63
+2021,October,Texas,42441000,Motor Vehicle and Parts Dealers,Not Adjusted,2020,"186,600","149,600",1066.13,28.43,37.5,64
+2021,October,Texas,42441100,Automobile Dealers,Not Adjusted,2020,"117,200",N/A,N/A,N/A,N/A,65
+2021,October,Texas,42441300,"Automotive Parts, Accessories, and Tire Stores",Not Adjusted,2020,"54,800",N/A,N/A,N/A,N/A,66
+2021,October,Texas,42442000,Furniture and Home Furnishings Stores,Not Adjusted,2020,"36,100",N/A,N/A,N/A,N/A,67
+2021,October,Texas,42443000,Electronics and Appliance Stores,Not Adjusted,2020,"39,600",N/A,N/A,N/A,N/A,68
+2021,October,Texas,42444000,Building Material and Garden Equipment and Supplies Dealers,Not Adjusted,2020,"112,000","91,600",755.64,20.99,36,69
+2021,October,Texas,42444100,Building Material and Supplies Dealers,Not Adjusted,2020,"97,800",N/A,N/A,N/A,N/A,70
+2021,October,Texas,42445000,Food and Beverage Stores,Not Adjusted,2020,"268,500","235,300",466.2,13.32,35,71
+2021,October,Texas,42445100,Grocery Stores,Not Adjusted,2020,"237,100",N/A,N/A,N/A,N/A,72
+2021,October,Texas,42446000,Health and Personal Care Stores,Not Adjusted,2020,"82,300",N/A,N/A,N/A,N/A,73
+2021,October,Texas,42447000,Gasoline Stations,Not Adjusted,2020,"89,500","74,300",501.95,14.72,34.1,74
+2021,October,Texas,42448000,Clothing and Clothing Accessories Stores,Not Adjusted,2020,"108,600","88,500",309.12,13.44,23,75
+2021,October,Texas,42448100,Clothing Stores,Not Adjusted,2020,"86,500",N/A,N/A,N/A,N/A,76
+2021,October,Texas,42451000,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",Not Adjusted,2020,"43,000",N/A,N/A,N/A,N/A,77
+2021,October,Texas,42452000,General Merchandise Stores,Not Adjusted,2020,"285,000",N/A,N/A,N/A,N/A,78
+2021,October,Texas,42452200,Department Stores,Not Adjusted,2020,"91,000",N/A,N/A,N/A,N/A,79
+2021,October,Texas,42452300,"General Merchandise Stores, including Warehouse Clubs and Supercenters",Not Adjusted,2020,"194,000",N/A,N/A,N/A,N/A,80
+2021,October,Texas,42453000,Miscellaneous Store Retailers,Not Adjusted,2020,"59,700",N/A,N/A,N/A,N/A,81
+2021,October,Texas,42453200,"Office Supplies, Stationery, and Gift Stores",Not Adjusted,2020,"16,900",N/A,N/A,N/A,N/A,82
+2021,October,Texas,42454000,Nonstore Retailers,Not Adjusted,2020,"36,700",N/A,N/A,N/A,N/A,83
+2021,October,Texas,43000000,"Transportation, Warehousing, and Utilities",Not Adjusted,2020,"658,000",N/A,N/A,N/A,N/A,84
+2021,October,Texas,43000000,"Transportation, Warehousing, and Utilities",Adjusted,2020,"652,300",N/A,N/A,N/A,N/A,84
+2021,October,Texas,43220000,Utilities,Not Adjusted,2020,"52,700",N/A,N/A,N/A,N/A,85
+2021,October,Texas,43221100,"Electric Power Generation, Transmission and Distribution",Not Adjusted,2020,"37,500",N/A,N/A,N/A,N/A,86
+2021,October,Texas,43221200,Natural Gas Distribution,Not Adjusted,2020,"7,900",N/A,N/A,N/A,N/A,87
+2021,October,Texas,43400089,Transportation and Warehousing,Not Adjusted,2020,"605,300",N/A,N/A,N/A,N/A,88
+2021,October,Texas,43481000,Air Transportation,Not Adjusted,2020,"58,700",N/A,N/A,N/A,N/A,89
+2021,October,Texas,43484000,Truck Transportation,Not Adjusted,2020,"150,900",N/A,N/A,N/A,N/A,90
+2021,October,Texas,43484100,General Freight Trucking,Not Adjusted,2020,"102,800",N/A,N/A,N/A,N/A,91
+2021,October,Texas,43484200,Specialized Freight Trucking,Not Adjusted,2020,"48,100",N/A,N/A,N/A,N/A,92
+2021,October,Texas,43486000,Pipeline Transportation,Not Adjusted,2020,"18,100",N/A,N/A,N/A,N/A,93
+2021,October,Texas,43488000,Support Activities for Transportation,Not Adjusted,2020,"99,000",N/A,N/A,N/A,N/A,94
+2021,October,Texas,43492000,Couriers and Messengers,Not Adjusted,2020,"79,000",N/A,N/A,N/A,N/A,95
+2021,October,Texas,43493000,Warehousing and Storage,Not Adjusted,2020,"157,900",N/A,N/A,N/A,N/A,96
+2021,October,Texas,50000000,Information,Not Adjusted,2020,"207,500",N/A,N/A,N/A,N/A,97
+2021,October,Texas,50000000,Information,Adjusted,2020,"207,500",N/A,N/A,N/A,N/A,97
+2021,October,Texas,50511000,Publishing Industries (except Internet),Not Adjusted,2020,"40,600",N/A,N/A,N/A,N/A,98
+2021,October,Texas,50511100,"Newspaper, Periodical, Book, and Directory Publishers",Not Adjusted,2020,"13,000",N/A,N/A,N/A,N/A,99
+2021,October,Texas,50517000,Telecommunications,Not Adjusted,2020,"83,300","68,500",N/A,N/A,N/A,100
+2021,October,Texas,50518000,"Data Processing, Hosting, and Related Services",Not Adjusted,2020,"40,600",N/A,N/A,N/A,N/A,101
+2021,October,Texas,55000000,Financial Activities,Not Adjusted,2020,"841,400",N/A,N/A,N/A,N/A,102
+2021,October,Texas,55000000,Financial Activities,Adjusted,2020,"836,300",N/A,N/A,N/A,N/A,102
+2021,October,Texas,55520000,Finance and Insurance,Not Adjusted,2020,"608,800",N/A,N/A,N/A,N/A,103
+2021,October,Texas,55520000,Finance and Insurance,Adjusted,2020,"606,100",N/A,N/A,N/A,N/A,103
+2021,October,Texas,55522000,Credit Intermediation and Related Activities including Monetary Authorities - Central Bank,Not Adjusted,2020,"277,400",N/A,N/A,N/A,N/A,104
+2021,October,Texas,55522100,Depository Credit Intermediation including Monetary Authorities - Central Bank,Not Adjusted,2020,"162,200",N/A,N/A,N/A,N/A,105
+2021,October,Texas,55522200,Nondepository Credit Intermediation,Not Adjusted,2020,"86,000",N/A,N/A,N/A,N/A,106
+2021,October,Texas,55523000,Financial Investments and Related Activities including Financial Vehicles,Not Adjusted,2020,"80,000",N/A,N/A,N/A,N/A,107
+2021,October,Texas,55524000,Insurance Carriers and Related Activities,Not Adjusted,2020,"251,400",N/A,N/A,N/A,N/A,108
+2021,October,Texas,55524100,Insurance Carriers,Not Adjusted,2020,"130,300",N/A,N/A,N/A,N/A,109
+2021,October,Texas,55524200,"Agencies, Brokerages, and Other Insurance Related Activities",Not Adjusted,2020,"121,100",N/A,N/A,N/A,N/A,110
+2021,October,Texas,55530000,Real Estate and Rental and Leasing,Not Adjusted,2020,"232,600",N/A,N/A,N/A,N/A,111
+2021,October,Texas,55530000,Real Estate and Rental and Leasing,Adjusted,2020,"230,200",N/A,N/A,N/A,N/A,111
+2021,October,Texas,55531000,Real Estate,Not Adjusted,2020,"164,000",N/A,N/A,N/A,N/A,112
+2021,October,Texas,55532000,Rental and Leasing Services,Not Adjusted,2020,"66,900",N/A,N/A,N/A,N/A,113
+2021,October,Texas,60000000,Professional and Business Services,Not Adjusted,2020,"1,970,500",N/A,N/A,N/A,N/A,114
+2021,October,Texas,60000000,Professional and Business Services,Adjusted,2020,"1,948,700",N/A,N/A,N/A,N/A,114
+2021,October,Texas,60540000,"Professional, Scientific, and Technical Services",Not Adjusted,2020,"934,300",N/A,N/A,N/A,N/A,115
+2021,October,Texas,60540000,"Professional, Scientific, and Technical Services",Adjusted,2020,"931,200",N/A,N/A,N/A,N/A,115
+2021,October,Texas,60541100,Legal Services,Not Adjusted,2020,"101,400",N/A,N/A,N/A,N/A,116
+2021,October,Texas,60541200,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",Not Adjusted,2020,"88,100",N/A,N/A,N/A,N/A,117
+2021,October,Texas,60541300,"Architectural, Engineering, and Related Services",Not Adjusted,2020,"174,200",N/A,N/A,N/A,N/A,118
+2021,October,Texas,60541500,Computer Systems Design and Related Services,Not Adjusted,2020,"265,000",N/A,N/A,N/A,N/A,119
+2021,October,Texas,60541600,"Management, Scientific, and Technical Consulting Services",Not Adjusted,2020,"180,500",N/A,N/A,N/A,N/A,120
+2021,October,Texas,60550000,Management of Companies and Enterprises,Not Adjusted,2020,"147,700",N/A,N/A,N/A,N/A,121
+2021,October,Texas,60550000,Management of Companies and Enterprises,Adjusted,2020,"147,000",N/A,N/A,N/A,N/A,121
+2021,October,Texas,60560000,Administrative and Support and Waste Management and Remediation Services,Not Adjusted,2020,"888,500",N/A,N/A,N/A,N/A,122
+2021,October,Texas,60560000,Administrative and Support and Waste Management and Remediation Services,Adjusted,2020,"870,500",N/A,N/A,N/A,N/A,122
+2021,October,Texas,60561000,Administrative and Support Services,Not Adjusted,2020,"849,700",N/A,N/A,N/A,N/A,123
+2021,October,Texas,60561300,Employment Services,Not Adjusted,2020,"341,700",N/A,N/A,N/A,N/A,124
+2021,October,Texas,60561400,Business Support Services,Not Adjusted,2020,"99,600",N/A,N/A,N/A,N/A,125
+2021,October,Texas,60561600,Investigation and Security Services,Not Adjusted,2020,"84,600",N/A,N/A,N/A,N/A,126
+2021,October,Texas,60561700,Services to Buildings and Dwellings,Not Adjusted,2020,"182,700",N/A,N/A,N/A,N/A,127
+2021,October,Texas,60562000,Waste Management and Remediation Services,Not Adjusted,2020,"38,800",N/A,N/A,N/A,N/A,128
+2021,October,Texas,65000000,Education and Health Services,Not Adjusted,2020,"1,764,900",N/A,N/A,N/A,N/A,129
+2021,October,Texas,65000000,Education and Health Services,Adjusted,2020,"1,751,000",N/A,N/A,N/A,N/A,129
+2021,October,Texas,65610000,Educational Services,Not Adjusted,2020,"239,400",N/A,N/A,N/A,N/A,130
+2021,October,Texas,65610000,Educational Services,Adjusted,2020,"232,800",N/A,N/A,N/A,N/A,130
+2021,October,Texas,65611300,"Colleges, Universities, and Professional Schools",Not Adjusted,2020,"77,300",N/A,N/A,N/A,N/A,131
+2021,October,Texas,65620000,Health Care and Social Assistance,Not Adjusted,2020,"1,525,500",N/A,N/A,N/A,N/A,132
+2021,October,Texas,65620000,Health Care and Social Assistance,Adjusted,2020,"1,518,200",N/A,N/A,N/A,N/A,132
+2021,October,Texas,65621000,Ambulatory Health Care Services,Not Adjusted,2020,"787,600",N/A,N/A,N/A,N/A,133
+2021,October,Texas,65621100,Offices of Physicians,Not Adjusted,2020,"235,300",N/A,N/A,N/A,N/A,134
+2021,October,Texas,65621600,Home Health Care Services,Not Adjusted,2020,"270,300",N/A,N/A,N/A,N/A,135
+2021,October,Texas,65622000,Hospitals,Not Adjusted,2020,"329,900",N/A,N/A,N/A,N/A,136
+2021,October,Texas,65623000,Nursing and Residential Care Facilities,Not Adjusted,2020,"167,000",N/A,N/A,N/A,N/A,137
+2021,October,Texas,65624000,Social Assistance,Not Adjusted,2020,"241,000",N/A,N/A,N/A,N/A,138
+2021,October,Texas,65624400,Child Day Care Services,Not Adjusted,2020,"84,000",N/A,N/A,N/A,N/A,139
+2021,October,Texas,70000000,Leisure and Hospitality,Not Adjusted,2020,"1,316,300",N/A,N/A,N/A,N/A,140
+2021,October,Texas,70000000,Leisure and Hospitality,Adjusted,2020,"1,320,200",N/A,N/A,N/A,N/A,140
+2021,October,Texas,70710000,"Arts, Entertainment, and Recreation",Not Adjusted,2020,"124,100",N/A,N/A,N/A,N/A,141
+2021,October,Texas,70710000,"Arts, Entertainment, and Recreation",Adjusted,2020,"128,800",N/A,N/A,N/A,N/A,141
+2021,October,Texas,70713000,"Amusement, Gambling, and Recreation Industries",Not Adjusted,2020,"85,200",N/A,N/A,N/A,N/A,142
+2021,October,Texas,70720000,Accommodation and Food Services,Not Adjusted,2020,"1,192,200",N/A,N/A,N/A,N/A,143
+2021,October,Texas,70720000,Accommodation and Food Services,Adjusted,2020,"1,191,400",N/A,N/A,N/A,N/A,143
+2021,October,Texas,70721000,Accommodation,Not Adjusted,2020,"106,400",N/A,N/A,N/A,N/A,144
+2021,October,Texas,70722000,Food Services and Drinking Places,Not Adjusted,2020,"1,085,800",N/A,N/A,N/A,N/A,145
+2021,October,Texas,80000000,Other Services,Not Adjusted,2020,"426,900",N/A,N/A,N/A,N/A,146
+2021,October,Texas,80000000,Other Services,Adjusted,2020,"427,100",N/A,N/A,N/A,N/A,146
+2021,October,Texas,80811000,Repair and Maintenance,Not Adjusted,2020,"141,000",N/A,N/A,N/A,N/A,147
+2021,October,Texas,80812000,Personal and Laundry Services,Not Adjusted,2020,"131,000",N/A,N/A,N/A,N/A,148
+2021,October,Texas,80813000,"Religious, Grantmaking, Civic, Professional, and Similar Organizations",Not Adjusted,2020,"154,900",N/A,N/A,N/A,N/A,149
+2021,October,Texas,90000000,Government,Not Adjusted,2020,"1,999,300",N/A,N/A,N/A,N/A,150
+2021,October,Texas,90000000,Government,Adjusted,2020,"1,979,000",N/A,N/A,N/A,N/A,150
+2021,October,Texas,90910000,Federal Government,Not Adjusted,2020,"212,100",N/A,N/A,N/A,N/A,151
+2021,October,Texas,90910000,Federal Government,Adjusted,2020,"213,000",N/A,N/A,N/A,N/A,151
+2021,October,Texas,90919119,"Department of Defense, including Ship Building and Hospitals",Not Adjusted,2020,"62,600",N/A,N/A,N/A,N/A,152
+2021,October,Texas,90919120,U.S. Postal Service,Not Adjusted,2020,"42,200",N/A,N/A,N/A,N/A,153
+2021,October,Texas,90920000,State Government,Not Adjusted,2020,"433,000",N/A,N/A,N/A,N/A,154
+2021,October,Texas,90920000,State Government,Adjusted,2020,"426,100",N/A,N/A,N/A,N/A,154
+2021,October,Texas,90921611,State Government Educational Services,Not Adjusted,2020,"258,400",N/A,N/A,N/A,N/A,155
+2021,October,Texas,90922000,State Government Excluding Education,Not Adjusted,2020,"174,600",N/A,N/A,N/A,N/A,156
+2021,October,Texas,90930000,Local Government,Not Adjusted,2020,"1,354,200",N/A,N/A,N/A,N/A,157
+2021,October,Texas,90930000,Local Government,Adjusted,2020,"1,339,900",N/A,N/A,N/A,N/A,157
+2021,October,Texas,90931611,Local Government Educational Services,Not Adjusted,2020,"874,400",N/A,N/A,N/A,N/A,158
+2021,October,Texas,90932000,Local Government excluding Educational Services,Not Adjusted,2020,"479,800",N/A,N/A,N/A,N/A,159

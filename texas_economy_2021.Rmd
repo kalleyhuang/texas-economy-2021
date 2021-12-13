@@ -1,0 +1,61 @@
+---
+title: "texas_economy_2021"
+output: html_document
+---
+
+```{r libraries}
+library(tidyverse)
+library(lubridate)
+```
+
+```{r data}
+# from Federal Reserve Bank of Dallas
+# https://www.dallasfed.org/research/econdata/tx-emp-ind.cfm#tab1
+employment_by_industry <- read.csv('employment_by_industry.csv')
+employment_by_industry$date <- mdy(employment_by_industry$date)
+
+# from Texas Workforce Commission
+# https://texaslmi.com/LMIbyCategory/CES
+ces <- bind_rows(read.csv('ces_2021.csv') %>% 
+                   mutate(date = as.Date('2021-10-01')), 
+                 read.csv('ces_2020.csv') %>% 
+                   mutate(date = as.Date('2020-03-01'))) %>% 
+  select(Industry, Adjustment, No..of.jobs, Hourly.Earnings, date)
+
+ces$Adjustment[ces$Adjustment == 'Adjusted'] <- T
+ces$Adjustment[ces$Adjustment == 'Not Adjusted'] <- F
+ces$Adjustment <- as.logical(ces$Adjustment)
+ces$No..of.jobs <- gsub(',', '', ces$No..of.jobs)
+ces$No..of.jobs <- as.double(ces$No..of.jobs)
+ces$Hourly.Earnings[ces$Hourly.Earnings == 'N/A'] <- NA
+ces$Hourly.Earnings <- as.double(ces$Hourly.Earnings)
+
+ces <- ces %>% 
+  rename(industry = Industry, adjusted = Adjustment, jobs = No..of.jobs, hourly_wages = Hourly.Earnings)
+```
+
+```{r employment_by_industry}
+# calculate decline in employment from March 2020 to April 2020
+employment_by_industry %>% 
+  group_by(industry) %>% 
+  filter(date == as.Date('2020-03-01') | date == as.Date('2020-04-01')) %>% 
+  arrange(desc(date), pct_change)
+
+# calculate decline in employment from March 2020 to October 2021
+employment_by_industry %>% 
+  group_by(industry) %>% 
+  filter(date == as.Date('2020-03-01') | date == as.Date('2021-10-01')) %>% 
+  mutate(raw_change = employment - lag(employment), 
+         pct_change = (employment - lag(employment)) / lag(employment) * 100) %>% 
+  filter(date == as.Date('2021-10-01')) %>% 
+  arrange(pct_change)
+
+ces %>% 
+  filter(!is.na(hourly_wages)) %>% 
+  group_by(industry) %>% 
+  arrange(date) %>% 
+  mutate(jobs_pct_change = (jobs - lag(jobs)) / lag(jobs) * 100,
+         wages_pct_change = (hourly_wages - lag(hourly_wages)) / lag(hourly_wages) * 100) %>% 
+  filter(date == as.Date('2021-10-01')) %>% 
+  select(industry, jobs, jobs_pct_change, hourly_wages, wages_pct_change)
+```

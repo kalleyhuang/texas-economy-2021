@@ -1,309 +1,309 @@
-﻿date,employment_in_thousands,industry
-1/1/20,235.8,mining logging
-2/1/20,235.1,mining logging
-3/1/20,232.3,mining logging
-4/1/20,206.5,mining logging
-5/1/20,186.3,mining logging
-6/1/20,176,mining logging
-7/1/20,171.7,mining logging
-8/1/20,171.4,mining logging
-9/1/20,171.1,mining logging
-10/1/20,172.1,mining logging
-11/1/20,172.6,mining logging
-12/1/20,173,mining logging
-1/1/21,174.2,mining logging
-2/1/21,174.5,mining logging
-3/1/21,176.3,mining logging
-4/1/21,177.4,mining logging
-5/1/21,176.5,mining logging
-6/1/21,176.7,mining logging
-7/1/21,179.9,mining logging
-8/1/21,182.5,mining logging
-9/1/21,185.1,mining logging
-10/1/21,186.6,mining logging
-1/1/20,781.5,construction
-2/1/20,781.5,construction
-3/1/20,778.8,construction
-4/1/20,722,construction
-5/1/20,728.1,construction
-6/1/20,726.2,construction
-7/1/20,720.7,construction
-8/1/20,717.7,construction
-9/1/20,717.6,construction
-10/1/20,719.1,construction
-11/1/20,719.9,construction
-12/1/20,720.5,construction
-1/1/21,718.3,construction
-2/1/21,711.3,construction
-3/1/21,730.4,construction
-4/1/21,729.4,construction
-5/1/21,725.7,construction
-6/1/21,725.5,construction
-7/1/21,725.6,construction
-8/1/21,723.6,construction
-9/1/21,732.1,construction
-10/1/21,732.1,construction
-1/1/20,911.1,manufacturing
-2/1/20,910.4,manufacturing
-3/1/20,908.3,manufacturing
-4/1/20,854.8,manufacturing
-5/1/20,856.5,manufacturing
-6/1/20,858.4,manufacturing
-7/1/20,850.2,manufacturing
-8/1/20,850.4,manufacturing
-9/1/20,852.9,manufacturing
-10/1/20,855.1,manufacturing
-11/1/20,855.8,manufacturing
-12/1/20,859,manufacturing
-1/1/21,862.1,manufacturing
-2/1/21,860.5,manufacturing
-3/1/21,866.3,manufacturing
-4/1/21,864.8,manufacturing
-5/1/21,865.2,manufacturing
-6/1/21,867.6,manufacturing
-7/1/21,872.2,manufacturing
-8/1/21,873.2,manufacturing
-9/1/21,874.2,manufacturing
-10/1/21,877.6,manufacturing
-1/1/20,9035.7,private services
-2/1/20,9053.7,private services
-3/1/20,8985.3,private services
-4/1/20,7794.1,private services
-5/1/20,8071.9,private services
-6/1/20,8294.9,private services
-7/1/20,8314.1,private services
-8/1/20,8359.1,private services
-9/1/20,8428.8,private services
-10/1/20,8564.6,private services
-11/1/20,8599.6,private services
-12/1/20,8639.2,private services
-1/1/21,8679.1,private services
-2/1/21,8655.7,private services
-3/1/21,8754.1,private services
-4/1/21,8806.7,private services
-5/1/21,8847.9,private services
-6/1/21,8883.6,private services
-7/1/21,8952.6,private services
-8/1/21,8978,private services
-9/1/21,9042.1,private services
-10/1/21,9090.3,private services
-1/1/20,2536.9,trade transportation utilities
-2/1/20,2537.2,trade transportation utilities
-3/1/20,2535.2,trade transportation utilities
-4/1/20,2334.2,trade transportation utilities
-5/1/20,2384.3,trade transportation utilities
-6/1/20,2436.9,trade transportation utilities
-7/1/20,2445.4,trade transportation utilities
-8/1/20,2455.8,trade transportation utilities
-9/1/20,2473.1,trade transportation utilities
-10/1/20,2508.1,trade transportation utilities
-11/1/20,2509.3,trade transportation utilities
-12/1/20,2513,trade transportation utilities
-1/1/21,2511.9,trade transportation utilities
-2/1/21,2511.9,trade transportation utilities
-3/1/21,2530.5,trade transportation utilities
-4/1/21,2535.6,trade transportation utilities
-5/1/21,2547.1,trade transportation utilities
-6/1/21,2556.4,trade transportation utilities
-7/1/21,2560.6,trade transportation utilities
-8/1/21,2564.6,trade transportation utilities
-9/1/21,2585.6,trade transportation utilities
-10/1/21,2601,trade transportation utilities
-1/1/20,816.4,financial activities
-2/1/20,818.3,financial activities
-3/1/20,817.8,financial activities
-4/1/20,793.6,financial activities
-5/1/20,795.2,financial activities
-6/1/20,796.5,financial activities
-7/1/20,796.8,financial activities
-8/1/20,798.3,financial activities
-9/1/20,800.9,financial activities
-10/1/20,806.5,financial activities
-11/1/20,809.5,financial activities
-12/1/20,812.1,financial activities
-1/1/21,815.3,financial activities
-2/1/21,815.8,financial activities
-3/1/21,823.7,financial activities
-4/1/21,827.1,financial activities
-5/1/21,827.7,financial activities
-6/1/21,829.7,financial activities
-7/1/21,834.3,financial activities
-8/1/21,834.4,financial activities
-9/1/21,837.7,financial activities
-10/1/21,840.8,financial activities
-1/1/20,212,information
-2/1/20,211.9,information
-3/1/20,210.6,information
-4/1/20,192.1,information
-5/1/20,191.5,information
-6/1/20,190.9,information
-7/1/20,191.8,information
-8/1/20,192.5,information
-9/1/20,196.2,information
-10/1/20,196.2,information
-11/1/20,195.8,information
-12/1/20,196.3,information
-1/1/21,197.9,information
-2/1/21,198,information
-3/1/21,199.4,information
-4/1/21,201.3,information
-5/1/21,202.9,information
-6/1/21,204.5,information
-7/1/21,206.1,information
-8/1/21,207.9,information
-9/1/21,208.4,information
-10/1/21,208.5,information
-1/1/20,1825.4,professional business services
-2/1/20,1834.8,professional business services
-3/1/20,1824,professional business services
-4/1/20,1681.9,professional business services
-5/1/20,1694.2,professional business services
-6/1/20,1705.5,professional business services
-7/1/20,1721.7,professional business services
-8/1/20,1734.4,professional business services
-9/1/20,1740.1,professional business services
-10/1/20,1766,professional business services
-11/1/20,1781.7,professional business services
-12/1/20,1799.9,professional business services
-1/1/21,1820.1,professional business services
-2/1/21,1818.8,professional business services
-3/1/21,1846.2,professional business services
-4/1/21,1861.4,professional business services
-5/1/21,1874.8,professional business services
-6/1/21,1876,professional business services
-7/1/21,1890.7,professional business services
-8/1/21,1915.7,professional business services
-9/1/21,1934.9,professional business services
-10/1/21,1953.5,professional business services
-1/1/20,1772.9,education health services
-2/1/20,1776.3,education health services
-3/1/20,1771.7,education health services
-4/1/20,1597.5,education health services
-5/1/20,1646.6,education health services
-6/1/20,1675.6,education health services
-7/1/20,1677.5,education health services
-8/1/20,1676.4,education health services
-9/1/20,1679.6,education health services
-10/1/20,1699.3,education health services
-11/1/20,1702.9,education health services
-12/1/20,1707.1,education health services
-1/1/21,1713.1,education health services
-2/1/21,1704.5,education health services
-3/1/21,1713.4,education health services
-4/1/21,1720.9,education health services
-5/1/21,1721.3,education health services
-6/1/21,1727.5,education health services
-7/1/21,1737,education health services
-8/1/21,1749.7,education health services
-9/1/21,1755.2,education health services
-10/1/21,1760.1,education health services
-1/1/20,1421,leisure hospitality services
-2/1/20,1422.7,leisure hospitality services
-3/1/20,1381.9,leisure hospitality services
-4/1/20,857,leisure hospitality services
-5/1/20,1003.8,leisure hospitality services
-6/1/20,1108.9,leisure hospitality services
-7/1/20,1096.9,leisure hospitality services
-8/1/20,1115.3,leisure hospitality services
-9/1/20,1149.7,leisure hospitality services
-10/1/20,1192.9,leisure hospitality services
-11/1/20,1205,leisure hospitality services
-12/1/20,1213.1,leisure hospitality services
-1/1/21,1218.6,leisure hospitality services
-2/1/21,1208.4,leisure hospitality services
-3/1/21,1234.1,leisure hospitality services
-4/1/21,1253.2,leisure hospitality services
-5/1/21,1266.8,leisure hospitality services
-6/1/21,1284.1,leisure hospitality services
-7/1/21,1310.4,leisure hospitality services
-8/1/21,1288.4,leisure hospitality services
-9/1/21,1301.3,leisure hospitality services
-10/1/21,1302.4,leisure hospitality services
-1/1/20,451.1,other services
-2/1/20,452.5,other services
-3/1/20,444.1,other services
-4/1/20,337.7,other services
-5/1/20,356.3,other services
-6/1/20,380.5,other services
-7/1/20,384,other services
-8/1/20,386.6,other services
-9/1/20,389.1,other services
-10/1/20,395.6,other services
-11/1/20,395.3,other services
-12/1/20,397.8,other services
-1/1/21,402.1,other services
-2/1/21,398.3,other services
-3/1/21,406.9,other services
-4/1/21,407.2,other services
-5/1/21,407.3,other services
-6/1/21,405.4,other services
-7/1/21,413.5,other services
-8/1/21,417.2,other services
-9/1/21,419,other services
-10/1/21,424,other services
-1/1/20,207.1,federal government
-2/1/20,207.3,federal government
-3/1/20,208.8,federal government
-4/1/20,209.3,federal government
-5/1/20,209.8,federal government
-6/1/20,210.1,federal government
-7/1/20,211.3,federal government
-8/1/20,232,federal government
-9/1/20,232.9,federal government
-10/1/20,218.6,federal government
-11/1/20,213,federal government
-12/1/20,213.3,federal government
-1/1/21,211.5,federal government
-2/1/21,211.5,federal government
-3/1/21,211,federal government
-4/1/21,211.4,federal government
-5/1/21,210.9,federal government
-6/1/21,210.9,federal government
-7/1/21,211.5,federal government
-8/1/21,212.5,federal government
-9/1/21,213.9,federal government
-10/1/21,212.7,federal government
-1/1/20,430.6,state government
-2/1/20,429.4,state government
-3/1/20,428.3,state government
-4/1/20,426.7,state government
-5/1/20,423,state government
-6/1/20,426.2,state government
-7/1/20,425.8,state government
-8/1/20,426.7,state government
-9/1/20,425.6,state government
-10/1/20,426.5,state government
-11/1/20,427.5,state government
-12/1/20,427.2,state government
-1/1/21,427.8,state government
-2/1/21,426.9,state government
-3/1/21,426.8,state government
-4/1/21,425.4,state government
-5/1/21,425.2,state government
-6/1/21,424.8,state government
-7/1/21,425.4,state government
-8/1/21,425.8,state government
-9/1/21,425.9,state government
-10/1/21,427,state government
-1/1/20,1363.1,local government
-2/1/20,1365.1,local government
-3/1/20,1365.7,local government
-4/1/20,1313.9,local government
-5/1/20,1282.1,local government
-6/1/20,1281.9,local government
-7/1/20,1311.7,local government
-8/1/20,1325.1,local government
-9/1/20,1313.8,local government
-10/1/20,1298.2,local government
-11/1/20,1302.9,local government
-12/1/20,1306.4,local government
-1/1/21,1309.3,local government
-2/1/21,1301.7,local government
-3/1/21,1300.6,local government
-4/1/21,1301.9,local government
-5/1/21,1301.7,local government
-6/1/21,1301.2,local government
-7/1/21,1322.3,local government
-8/1/21,1325.6,local government
-9/1/21,1331.9,local government
-10/1/21,1318.9,local government
+﻿date,employment,raw_change,pct_change,industry
+1/1/20,235800,,,mining logging
+2/1/20,235100,-700,-0.296861747,mining logging
+3/1/20,232300,-2800,-1.190982561,mining logging
+4/1/20,206500,-25800,-11.10632802,mining logging
+5/1/20,186300,-20200,-9.782082324,mining logging
+6/1/20,176000,-10300,-5.528717123,mining logging
+7/1/20,171700,-4300,-2.443181818,mining logging
+8/1/20,171400,-300,-0.174723355,mining logging
+9/1/20,171100,-300,-0.175029172,mining logging
+10/1/20,172100,1000,0.584453536,mining logging
+11/1/20,172600,500,0.290528762,mining logging
+12/1/20,173000,400,0.23174971,mining logging
+1/1/21,174200,1200,0.693641618,mining logging
+2/1/21,174500,300,0.172215844,mining logging
+3/1/21,176300,1800,1.031518625,mining logging
+4/1/21,177400,1100,0.623936472,mining logging
+5/1/21,176500,-900,-0.507328072,mining logging
+6/1/21,176700,200,0.113314448,mining logging
+7/1/21,179900,3200,1.810979061,mining logging
+8/1/21,182500,2600,1.44524736,mining logging
+9/1/21,185100,2600,1.424657534,mining logging
+10/1/21,186600,1500,0.810372771,mining logging
+1/1/20,781500,,,construction
+2/1/20,781500,0,0,construction
+3/1/20,778800,-2700,-0.345489443,construction
+4/1/20,722000,-56800,-7.2932717,construction
+5/1/20,728100,6100,0.844875346,construction
+6/1/20,726200,-1900,-0.260953166,construction
+7/1/20,720700,-5500,-0.757367116,construction
+8/1/20,717700,-3000,-0.416261968,construction
+9/1/20,717600,-100,-0.013933398,construction
+10/1/20,719100,1500,0.2090301,construction
+11/1/20,719900,800,0.111250174,construction
+12/1/20,720500,600,0.083344909,construction
+1/1/21,718300,-2200,-0.305343511,construction
+2/1/21,711300,-7000,-0.97452318,construction
+3/1/21,730400,19100,2.685224237,construction
+4/1/21,729400,-1000,-0.136911281,construction
+5/1/21,725700,-3700,-0.507266246,construction
+6/1/21,725500,-200,-0.027559598,construction
+7/1/21,725600,100,0.013783598,construction
+8/1/21,723600,-2000,-0.275633958,construction
+9/1/21,732100,8500,1.174682145,construction
+10/1/21,732100,0,0,construction
+1/1/20,911100,,,manufacturing
+2/1/20,910400,-700,-0.076830205,manufacturing
+3/1/20,908300,-2100,-0.230667838,manufacturing
+4/1/20,854800,-53500,-5.890124408,manufacturing
+5/1/20,856500,1700,0.19887693,manufacturing
+6/1/20,858400,1900,0.221833041,manufacturing
+7/1/20,850200,-8200,-0.95526561,manufacturing
+8/1/20,850400,200,0.023523877,manufacturing
+9/1/20,852900,2500,0.293979304,manufacturing
+10/1/20,855100,2200,0.257943487,manufacturing
+11/1/20,855800,700,0.081861771,manufacturing
+12/1/20,859000,3200,0.37391914,manufacturing
+1/1/21,862100,3100,0.36088475,manufacturing
+2/1/21,860500,-1600,-0.185593319,manufacturing
+3/1/21,866300,5800,0.674026729,manufacturing
+4/1/21,864800,-1500,-0.173150179,manufacturing
+5/1/21,865200,400,0.046253469,manufacturing
+6/1/21,867600,2400,0.27739251,manufacturing
+7/1/21,872200,4600,0.530198248,manufacturing
+8/1/21,873200,1000,0.114652603,manufacturing
+9/1/21,874200,1000,0.114521301,manufacturing
+10/1/21,877600,3400,0.388927019,manufacturing
+1/1/20,9035700,,,private services
+2/1/20,9053700,18000,0.199209801,private services
+3/1/20,8985300,-68400,-0.75549223,private services
+4/1/20,7794100,-1191200,-13.257209,private services
+5/1/20,8071900,277800,3.564234485,private services
+6/1/20,8294900,223000,2.762670499,private services
+7/1/20,8314100,19200,0.231467528,private services
+8/1/20,8359100,45000,0.541249203,private services
+9/1/20,8428800,69700,0.833821823,private services
+10/1/20,8564600,135800,1.611142749,private services
+11/1/20,8599600,35000,0.408658898,private services
+12/1/20,8639200,39600,0.460486534,private services
+1/1/21,8679100,39900,0.461848319,private services
+2/1/21,8655700,-23400,-0.269613209,private services
+3/1/21,8754100,98400,1.136823134,private services
+4/1/21,8806700,52600,0.600861311,private services
+5/1/21,8847900,41200,0.467825633,private services
+6/1/21,8883600,35700,0.403485573,private services
+7/1/21,8952600,69000,0.776712144,private services
+8/1/21,8978000,25400,0.283716462,private services
+9/1/21,9042100,64100,0.713967476,private services
+10/1/21,9090300,48200,0.53306201,private services
+1/1/20,2536900,,,trade transportation utilities
+2/1/20,2537200,300,0.011825456,trade transportation utilities
+3/1/20,2535200,-2000,-0.078827053,trade transportation utilities
+4/1/20,2334200,-201000,-7.928368571,trade transportation utilities
+5/1/20,2384300,50100,2.146345643,trade transportation utilities
+6/1/20,2436900,52600,2.206098226,trade transportation utilities
+7/1/20,2445400,8500,0.348803808,trade transportation utilities
+8/1/20,2455800,10400,0.425288296,trade transportation utilities
+9/1/20,2473100,17300,0.70445476,trade transportation utilities
+10/1/20,2508100,35000,1.415227852,trade transportation utilities
+11/1/20,2509300,1200,0.047844982,trade transportation utilities
+12/1/20,2513000,3700,0.14745148,trade transportation utilities
+1/1/21,2511900,-1100,-0.043772384,trade transportation utilities
+2/1/21,2511900,0,0,trade transportation utilities
+3/1/21,2530500,18600,0.740475337,trade transportation utilities
+4/1/21,2535600,5100,0.201541197,trade transportation utilities
+5/1/21,2547100,11500,0.453541568,trade transportation utilities
+6/1/21,2556400,9300,0.365121118,trade transportation utilities
+7/1/21,2560600,4200,0.164293538,trade transportation utilities
+8/1/21,2564600,4000,0.156213387,trade transportation utilities
+9/1/21,2585600,21000,0.818841145,trade transportation utilities
+10/1/21,2601000,15400,0.595606436,trade transportation utilities
+1/1/20,816400,,,financial activities
+2/1/20,818300,1900,0.232729054,financial activities
+3/1/20,817800,-500,-0.061102285,financial activities
+4/1/20,793600,-24200,-2.959158719,financial activities
+5/1/20,795200,1600,0.201612903,financial activities
+6/1/20,796500,1300,0.163480885,financial activities
+7/1/20,796800,300,0.037664783,financial activities
+8/1/20,798300,1500,0.188253012,financial activities
+9/1/20,800900,2600,0.325692096,financial activities
+10/1/20,806500,5600,0.699213385,financial activities
+11/1/20,809500,3000,0.371977681,financial activities
+12/1/20,812100,2600,0.321185917,financial activities
+1/1/21,815300,3200,0.394040143,financial activities
+2/1/21,815800,500,0.061327119,financial activities
+3/1/21,823700,7900,0.968374602,financial activities
+4/1/21,827100,3400,0.41277164,financial activities
+5/1/21,827700,600,0.072542619,financial activities
+6/1/21,829700,2000,0.241633442,financial activities
+7/1/21,834300,4600,0.554417259,financial activities
+8/1/21,834400,100,0.011986096,financial activities
+9/1/21,837700,3300,0.395493768,financial activities
+10/1/21,840800,3100,0.370060881,financial activities
+1/1/20,212000,,,information
+2/1/20,211900,-100,-0.047169811,information
+3/1/20,210600,-1300,-0.613496933,information
+4/1/20,192100,-18500,-8.784425451,information
+5/1/20,191500,-600,-0.312337324,information
+6/1/20,190900,-600,-0.313315927,information
+7/1/20,191800,900,0.471451021,information
+8/1/20,192500,700,0.364963504,information
+9/1/20,196200,3700,1.922077922,information
+10/1/20,196200,0,0,information
+11/1/20,195800,-400,-0.203873598,information
+12/1/20,196300,500,0.255362615,information
+1/1/21,197900,1600,0.815078961,information
+2/1/21,198000,100,0.050530571,information
+3/1/21,199400,1400,0.707070707,information
+4/1/21,201300,1900,0.952858576,information
+5/1/21,202900,1600,0.794833582,information
+6/1/21,204500,1600,0.788565796,information
+7/1/21,206100,1600,0.782396088,information
+8/1/21,207900,1800,0.873362445,information
+9/1/21,208400,500,0.240500241,information
+10/1/21,208500,100,0.047984645,information
+1/1/20,1825400,,,professional business services
+2/1/20,1834800,9400,0.514955626,professional business services
+3/1/20,1824000,-10800,-0.588620013,professional business services
+4/1/20,1681900,-142100,-7.790570175,professional business services
+5/1/20,1694200,12300,0.731315774,professional business services
+6/1/20,1705500,11300,0.666981466,professional business services
+7/1/20,1721700,16200,0.949868074,professional business services
+8/1/20,1734400,12700,0.737643027,professional business services
+9/1/20,1740100,5700,0.328643911,professional business services
+10/1/20,1766000,25900,1.488420206,professional business services
+11/1/20,1781700,15700,0.889014723,professional business services
+12/1/20,1799900,18200,1.021496324,professional business services
+1/1/21,1820100,20200,1.122284571,professional business services
+2/1/21,1818800,-1300,-0.071424647,professional business services
+3/1/21,1846200,27400,1.506487794,professional business services
+4/1/21,1861400,15200,0.823312751,professional business services
+5/1/21,1874800,13400,0.719888256,professional business services
+6/1/21,1876000,1200,0.064006827,professional business services
+7/1/21,1890700,14700,0.78358209,professional business services
+8/1/21,1915700,25000,1.322261596,professional business services
+9/1/21,1934900,19200,1.00224461,professional business services
+10/1/21,1953500,18600,0.961289989,professional business services
+1/1/20,1772900,,,education health services
+2/1/20,1776300,3400,0.191776186,education health services
+3/1/20,1771700,-4600,-0.258965265,education health services
+4/1/20,1597500,-174200,-9.832364396,education health services
+5/1/20,1646600,49100,3.073552426,education health services
+6/1/20,1675600,29000,1.761204907,education health services
+7/1/20,1677500,1900,0.113392218,education health services
+8/1/20,1676400,-1100,-0.06557377,education health services
+9/1/20,1679600,3200,0.19088523,education health services
+10/1/20,1699300,19700,1.172898309,education health services
+11/1/20,1702900,3600,0.211851939,education health services
+12/1/20,1707100,4200,0.246638088,education health services
+1/1/21,1713100,6000,0.351473259,education health services
+2/1/21,1704500,-8600,-0.502013893,education health services
+3/1/21,1713400,8900,0.522147257,education health services
+4/1/21,1720900,7500,0.437726159,education health services
+5/1/21,1721300,400,0.023243652,education health services
+6/1/21,1727500,6200,0.360192877,education health services
+7/1/21,1737000,9500,0.549927641,education health services
+8/1/21,1749700,12700,0.731145653,education health services
+9/1/21,1755200,5500,0.314339601,education health services
+10/1/21,1760100,4900,0.279170465,education health services
+1/1/20,1421000,,,leisure hospitality services
+2/1/20,1422700,1700,0.119634061,leisure hospitality services
+3/1/20,1381900,-40800,-2.867786603,leisure hospitality services
+4/1/20,857000,-524900,-37.98393516,leisure hospitality services
+5/1/20,1003800,146800,17.12952159,leisure hospitality services
+6/1/20,1108900,105100,10.47021319,leisure hospitality services
+7/1/20,1096900,-12000,-1.082153485,leisure hospitality services
+8/1/20,1115300,18400,1.677454645,leisure hospitality services
+9/1/20,1149700,34400,3.084371918,leisure hospitality services
+10/1/20,1192900,43200,3.757501957,leisure hospitality services
+11/1/20,1205000,12100,1.014334814,leisure hospitality services
+12/1/20,1213100,8100,0.67219917,leisure hospitality services
+1/1/21,1218600,5500,0.453383893,leisure hospitality services
+2/1/21,1208400,-10200,-0.837026096,leisure hospitality services
+3/1/21,1234100,25700,2.126779212,leisure hospitality services
+4/1/21,1253200,19100,1.547686573,leisure hospitality services
+5/1/21,1266800,13600,1.085221832,leisure hospitality services
+6/1/21,1284100,17300,1.365645722,leisure hospitality services
+7/1/21,1310400,26300,2.048127093,leisure hospitality services
+8/1/21,1288400,-22000,-1.678876679,leisure hospitality services
+9/1/21,1301300,12900,1.00124185,leisure hospitality services
+10/1/21,1302400,1100,0.084530854,leisure hospitality services
+1/1/20,451100,,,other services
+2/1/20,452500,1400,0.310352472,other services
+3/1/20,444100,-8400,-1.856353591,other services
+4/1/20,337700,-106400,-23.95856789,other services
+5/1/20,356300,18600,5.507847202,other services
+6/1/20,380500,24200,6.792029189,other services
+7/1/20,384000,3500,0.919842313,other services
+8/1/20,386600,2600,0.677083333,other services
+9/1/20,389100,2500,0.646663218,other services
+10/1/20,395600,6500,1.670521717,other services
+11/1/20,395300,-300,-0.075834176,other services
+12/1/20,397800,2500,0.632431065,other services
+1/1/21,402100,4300,1.080945199,other services
+2/1/21,398300,-3800,-0.945038548,other services
+3/1/21,406900,8600,2.1591765,other services
+4/1/21,407200,300,0.073728189,other services
+5/1/21,407300,100,0.024557957,other services
+6/1/21,405400,-1900,-0.466486619,other services
+7/1/21,413500,8100,1.99802664,other services
+8/1/21,417200,3700,0.894800484,other services
+9/1/21,419000,1800,0.431447747,other services
+10/1/21,424000,5000,1.193317422,other services
+1/1/20,207100,,,federal government
+2/1/20,207300,200,0.096571704,federal government
+3/1/20,208800,1500,0.723589001,federal government
+4/1/20,209300,500,0.239463602,federal government
+5/1/20,209800,500,0.238891543,federal government
+6/1/20,210100,300,0.142993327,federal government
+7/1/20,211300,1200,0.571156592,federal government
+8/1/20,232000,20700,9.79649787,federal government
+9/1/20,232900,900,0.387931034,federal government
+10/1/20,218600,-14300,-6.139974238,federal government
+11/1/20,213000,-5600,-2.561756633,federal government
+12/1/20,213300,300,0.14084507,federal government
+1/1/21,211500,-1800,-0.843881857,federal government
+2/1/21,211500,0,0,federal government
+3/1/21,211000,-500,-0.236406619,federal government
+4/1/21,211400,400,0.18957346,federal government
+5/1/21,210900,-500,-0.236518448,federal government
+6/1/21,210900,0,0,federal government
+7/1/21,211500,600,0.284495021,federal government
+8/1/21,212500,1000,0.472813239,federal government
+9/1/21,213900,1400,0.658823529,federal government
+10/1/21,212700,-1200,-0.561009818,federal government
+1/1/20,430600,,,state government
+2/1/20,429400,-1200,-0.27868091,state government
+3/1/20,428300,-1100,-0.256171402,state government
+4/1/20,426700,-1600,-0.373569928,state government
+5/1/20,423000,-3700,-0.867119756,state government
+6/1/20,426200,3200,0.756501182,state government
+7/1/20,425800,-400,-0.093852651,state government
+8/1/20,426700,900,0.211366839,state government
+9/1/20,425600,-1100,-0.25779236,state government
+10/1/20,426500,900,0.211466165,state government
+11/1/20,427500,1000,0.234466589,state government
+12/1/20,427200,-300,-0.070175439,state government
+1/1/21,427800,600,0.140449438,state government
+2/1/21,426900,-900,-0.210378682,state government
+3/1/21,426800,-100,-0.02342469,state government
+4/1/21,425400,-1400,-0.328022493,state government
+5/1/21,425200,-200,-0.047014575,state government
+6/1/21,424800,-400,-0.094073377,state government
+7/1/21,425400,600,0.141242938,state government
+8/1/21,425800,400,0.094029149,state government
+9/1/21,425900,100,0.023485204,state government
+10/1/21,427000,1100,0.258276591,state government
+1/1/20,1363100,,,local government
+2/1/20,1365100,2000,0.146724378,local government
+3/1/20,1365700,600,0.043952824,local government
+4/1/20,1313900,-51800,-3.792926704,local government
+5/1/20,1282100,-31800,-2.420275516,local government
+6/1/20,1281900,-200,-0.015599407,local government
+7/1/20,1311700,29800,2.324674312,local government
+8/1/20,1325100,13400,1.021575055,local government
+9/1/20,1313800,-11300,-0.852765829,local government
+10/1/20,1298200,-15600,-1.187395342,local government
+11/1/20,1302900,4700,0.362039747,local government
+12/1/20,1306400,3500,0.268631514,local government
+1/1/21,1309300,2900,0.221984078,local government
+2/1/21,1301700,-7600,-0.580462843,local government
+3/1/21,1300600,-1100,-0.084504878,local government
+4/1/21,1301900,1300,0.099953867,local government
+5/1/21,1301700,-200,-0.015362163,local government
+6/1/21,1301200,-500,-0.038411308,local government
+7/1/21,1322300,21100,1.62158008,local government
+8/1/21,1325600,3300,0.249565152,local government
+9/1/21,1331900,6300,0.475256488,local government
+10/1/21,1318900,-13000,-0.976049253,local government
