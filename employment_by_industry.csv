@@ -1,0 +1,309 @@
+﻿date,employment_in_thousands,industry
+1/1/20,235.8,mining logging
+2/1/20,235.1,mining logging
+3/1/20,232.3,mining logging
+4/1/20,206.5,mining logging
+5/1/20,186.3,mining logging
+6/1/20,176,mining logging
+7/1/20,171.7,mining logging
+8/1/20,171.4,mining logging
+9/1/20,171.1,mining logging
+10/1/20,172.1,mining logging
+11/1/20,172.6,mining logging
+12/1/20,173,mining logging
+1/1/21,174.2,mining logging
+2/1/21,174.5,mining logging
+3/1/21,176.3,mining logging
+4/1/21,177.4,mining logging
+5/1/21,176.5,mining logging
+6/1/21,176.7,mining logging
+7/1/21,179.9,mining logging
+8/1/21,182.5,mining logging
+9/1/21,185.1,mining logging
+10/1/21,186.6,mining logging
+1/1/20,781.5,construction
+2/1/20,781.5,construction
+3/1/20,778.8,construction
+4/1/20,722,construction
+5/1/20,728.1,construction
+6/1/20,726.2,construction
+7/1/20,720.7,construction
+8/1/20,717.7,construction
+9/1/20,717.6,construction
+10/1/20,719.1,construction
+11/1/20,719.9,construction
+12/1/20,720.5,construction
+1/1/21,718.3,construction
+2/1/21,711.3,construction
+3/1/21,730.4,construction
+4/1/21,729.4,construction
+5/1/21,725.7,construction
+6/1/21,725.5,construction
+7/1/21,725.6,construction
+8/1/21,723.6,construction
+9/1/21,732.1,construction
+10/1/21,732.1,construction
+1/1/20,911.1,manufacturing
+2/1/20,910.4,manufacturing
+3/1/20,908.3,manufacturing
+4/1/20,854.8,manufacturing
+5/1/20,856.5,manufacturing
+6/1/20,858.4,manufacturing
+7/1/20,850.2,manufacturing
+8/1/20,850.4,manufacturing
+9/1/20,852.9,manufacturing
+10/1/20,855.1,manufacturing
+11/1/20,855.8,manufacturing
+12/1/20,859,manufacturing
+1/1/21,862.1,manufacturing
+2/1/21,860.5,manufacturing
+3/1/21,866.3,manufacturing
+4/1/21,864.8,manufacturing
+5/1/21,865.2,manufacturing
+6/1/21,867.6,manufacturing
+7/1/21,872.2,manufacturing
+8/1/21,873.2,manufacturing
+9/1/21,874.2,manufacturing
+10/1/21,877.6,manufacturing
+1/1/20,9035.7,private services
+2/1/20,9053.7,private services
+3/1/20,8985.3,private services
+4/1/20,7794.1,private services
+5/1/20,8071.9,private services
+6/1/20,8294.9,private services
+7/1/20,8314.1,private services
+8/1/20,8359.1,private services
+9/1/20,8428.8,private services
+10/1/20,8564.6,private services
+11/1/20,8599.6,private services
+12/1/20,8639.2,private services
+1/1/21,8679.1,private services
+2/1/21,8655.7,private services
+3/1/21,8754.1,private services
+4/1/21,8806.7,private services
+5/1/21,8847.9,private services
+6/1/21,8883.6,private services
+7/1/21,8952.6,private services
+8/1/21,8978,private services
+9/1/21,9042.1,private services
+10/1/21,9090.3,private services
+1/1/20,2536.9,trade transportation utilities
+2/1/20,2537.2,trade transportation utilities
+3/1/20,2535.2,trade transportation utilities
+4/1/20,2334.2,trade transportation utilities
+5/1/20,2384.3,trade transportation utilities
+6/1/20,2436.9,trade transportation utilities
+7/1/20,2445.4,trade transportation utilities
+8/1/20,2455.8,trade transportation utilities
+9/1/20,2473.1,trade transportation utilities
+10/1/20,2508.1,trade transportation utilities
+11/1/20,2509.3,trade transportation utilities
+12/1/20,2513,trade transportation utilities
+1/1/21,2511.9,trade transportation utilities
+2/1/21,2511.9,trade transportation utilities
+3/1/21,2530.5,trade transportation utilities
+4/1/21,2535.6,trade transportation utilities
+5/1/21,2547.1,trade transportation utilities
+6/1/21,2556.4,trade transportation utilities
+7/1/21,2560.6,trade transportation utilities
+8/1/21,2564.6,trade transportation utilities
+9/1/21,2585.6,trade transportation utilities
+10/1/21,2601,trade transportation utilities
+1/1/20,816.4,financial activities
+2/1/20,818.3,financial activities
+3/1/20,817.8,financial activities
+4/1/20,793.6,financial activities
+5/1/20,795.2,financial activities
+6/1/20,796.5,financial activities
+7/1/20,796.8,financial activities
+8/1/20,798.3,financial activities
+9/1/20,800.9,financial activities
+10/1/20,806.5,financial activities
+11/1/20,809.5,financial activities
+12/1/20,812.1,financial activities
+1/1/21,815.3,financial activities
+2/1/21,815.8,financial activities
+3/1/21,823.7,financial activities
+4/1/21,827.1,financial activities
+5/1/21,827.7,financial activities
+6/1/21,829.7,financial activities
+7/1/21,834.3,financial activities
+8/1/21,834.4,financial activities
+9/1/21,837.7,financial activities
+10/1/21,840.8,financial activities
+1/1/20,212,information
+2/1/20,211.9,information
+3/1/20,210.6,information
+4/1/20,192.1,information
+5/1/20,191.5,information
+6/1/20,190.9,information
+7/1/20,191.8,information
+8/1/20,192.5,information
+9/1/20,196.2,information
+10/1/20,196.2,information
+11/1/20,195.8,information
+12/1/20,196.3,information
+1/1/21,197.9,information
+2/1/21,198,information
+3/1/21,199.4,information
+4/1/21,201.3,information
+5/1/21,202.9,information
+6/1/21,204.5,information
+7/1/21,206.1,information
+8/1/21,207.9,information
+9/1/21,208.4,information
+10/1/21,208.5,information
+1/1/20,1825.4,professional business services
+2/1/20,1834.8,professional business services
+3/1/20,1824,professional business services
+4/1/20,1681.9,professional business services
+5/1/20,1694.2,professional business services
+6/1/20,1705.5,professional business services
+7/1/20,1721.7,professional business services
+8/1/20,1734.4,professional business services
+9/1/20,1740.1,professional business services
+10/1/20,1766,professional business services
+11/1/20,1781.7,professional business services
+12/1/20,1799.9,professional business services
+1/1/21,1820.1,professional business services
+2/1/21,1818.8,professional business services
+3/1/21,1846.2,professional business services
+4/1/21,1861.4,professional business services
+5/1/21,1874.8,professional business services
+6/1/21,1876,professional business services
+7/1/21,1890.7,professional business services
+8/1/21,1915.7,professional business services
+9/1/21,1934.9,professional business services
+10/1/21,1953.5,professional business services
+1/1/20,1772.9,education health services
+2/1/20,1776.3,education health services
+3/1/20,1771.7,education health services
+4/1/20,1597.5,education health services
+5/1/20,1646.6,education health services
+6/1/20,1675.6,education health services
+7/1/20,1677.5,education health services
+8/1/20,1676.4,education health services
+9/1/20,1679.6,education health services
+10/1/20,1699.3,education health services
+11/1/20,1702.9,education health services
+12/1/20,1707.1,education health services
+1/1/21,1713.1,education health services
+2/1/21,1704.5,education health services
+3/1/21,1713.4,education health services
+4/1/21,1720.9,education health services
+5/1/21,1721.3,education health services
+6/1/21,1727.5,education health services
+7/1/21,1737,education health services
+8/1/21,1749.7,education health services
+9/1/21,1755.2,education health services
+10/1/21,1760.1,education health services
+1/1/20,1421,leisure hospitality services
+2/1/20,1422.7,leisure hospitality services
+3/1/20,1381.9,leisure hospitality services
+4/1/20,857,leisure hospitality services
+5/1/20,1003.8,leisure hospitality services
+6/1/20,1108.9,leisure hospitality services
+7/1/20,1096.9,leisure hospitality services
+8/1/20,1115.3,leisure hospitality services
+9/1/20,1149.7,leisure hospitality services
+10/1/20,1192.9,leisure hospitality services
+11/1/20,1205,leisure hospitality services
+12/1/20,1213.1,leisure hospitality services
+1/1/21,1218.6,leisure hospitality services
+2/1/21,1208.4,leisure hospitality services
+3/1/21,1234.1,leisure hospitality services
+4/1/21,1253.2,leisure hospitality services
+5/1/21,1266.8,leisure hospitality services
+6/1/21,1284.1,leisure hospitality services
+7/1/21,1310.4,leisure hospitality services
+8/1/21,1288.4,leisure hospitality services
+9/1/21,1301.3,leisure hospitality services
+10/1/21,1302.4,leisure hospitality services
+1/1/20,451.1,other services
+2/1/20,452.5,other services
+3/1/20,444.1,other services
+4/1/20,337.7,other services
+5/1/20,356.3,other services
+6/1/20,380.5,other services
+7/1/20,384,other services
+8/1/20,386.6,other services
+9/1/20,389.1,other services
+10/1/20,395.6,other services
+11/1/20,395.3,other services
+12/1/20,397.8,other services
+1/1/21,402.1,other services
+2/1/21,398.3,other services
+3/1/21,406.9,other services
+4/1/21,407.2,other services
+5/1/21,407.3,other services
+6/1/21,405.4,other services
+7/1/21,413.5,other services
+8/1/21,417.2,other services
+9/1/21,419,other services
+10/1/21,424,other services
+1/1/20,207.1,federal government
+2/1/20,207.3,federal government
+3/1/20,208.8,federal government
+4/1/20,209.3,federal government
+5/1/20,209.8,federal government
+6/1/20,210.1,federal government
+7/1/20,211.3,federal government
+8/1/20,232,federal government
+9/1/20,232.9,federal government
+10/1/20,218.6,federal government
+11/1/20,213,federal government
+12/1/20,213.3,federal government
+1/1/21,211.5,federal government
+2/1/21,211.5,federal government
+3/1/21,211,federal government
+4/1/21,211.4,federal government
+5/1/21,210.9,federal government
+6/1/21,210.9,federal government
+7/1/21,211.5,federal government
+8/1/21,212.5,federal government
+9/1/21,213.9,federal government
+10/1/21,212.7,federal government
+1/1/20,430.6,state government
+2/1/20,429.4,state government
+3/1/20,428.3,state government
+4/1/20,426.7,state government
+5/1/20,423,state government
+6/1/20,426.2,state government
+7/1/20,425.8,state government
+8/1/20,426.7,state government
+9/1/20,425.6,state government
+10/1/20,426.5,state government
+11/1/20,427.5,state government
+12/1/20,427.2,state government
+1/1/21,427.8,state government
+2/1/21,426.9,state government
+3/1/21,426.8,state government
+4/1/21,425.4,state government
+5/1/21,425.2,state government
+6/1/21,424.8,state government
+7/1/21,425.4,state government
+8/1/21,425.8,state government
+9/1/21,425.9,state government
+10/1/21,427,state government
+1/1/20,1363.1,local government
+2/1/20,1365.1,local government
+3/1/20,1365.7,local government
+4/1/20,1313.9,local government
+5/1/20,1282.1,local government
+6/1/20,1281.9,local government
+7/1/20,1311.7,local government
+8/1/20,1325.1,local government
+9/1/20,1313.8,local government
+10/1/20,1298.2,local government
+11/1/20,1302.9,local government
+12/1/20,1306.4,local government
+1/1/21,1309.3,local government
+2/1/21,1301.7,local government
+3/1/21,1300.6,local government
+4/1/21,1301.9,local government
+5/1/21,1301.7,local government
+6/1/21,1301.2,local government
+7/1/21,1322.3,local government
+8/1/21,1325.6,local government
+9/1/21,1331.9,local government
+10/1/21,1318.9,local government
