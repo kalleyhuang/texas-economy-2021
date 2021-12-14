@@ -1,0 +1,239 @@
+Month,Group,Demographic,Unemployment
+4/1/20,Gender,Female,4.6
+4/1/20,Gender,Male,4.1
+4/1/20,Age,Age 16-19,14.7
+4/1/20,Age,Age 20-24,7.3
+4/1/20,Age,Age 25-34,4.6
+4/1/20,Age,Age 35-44,2.9
+4/1/20,Age,Age 45-54,3.1
+4/1/20,Age,Age 55-64,3.4
+4/1/20,Age,Age 65+,3.5
+4/1/20,Race,White,4
+4/1/20,Race,Black,6.5
+4/1/20,Race,Hispanic,5.2
+4/1/20,Other,Veterans,3.6
+4/1/20,Education,Less than High School,5.2
+4/1/20,Education,High School Diploma,4.7
+4/1/20,Education,Some College or Associate Degree,3.4
+4/1/20,Education,Bachelor's Degree or Higher,2.3
+6/1/20,Gender,Female,5.8
+6/1/20,Gender,Male,5.3
+6/1/20,Age,Age 16-19,17
+6/1/20,Age,Age 20-24,9.7
+6/1/20,Age,Age 25-34,5.7
+6/1/20,Age,Age 35-44,4
+6/1/20,Age,Age 45-54,4.1
+6/1/20,Age,Age 55-64,4.6
+6/1/20,Age,Age 65+,4.3
+6/1/20,Race,White,5.1
+6/1/20,Race,Black,8.2
+6/1/20,Race,Hispanic,6.7
+6/1/20,Other,Veterans,4.3
+6/1/20,Education,Less than High School,7.3
+6/1/20,Education,High School Diploma,6
+6/1/20,Education,Some College or Associate Degree,4.8
+6/1/20,Education,Bachelor's Degree or Higher,2.8
+7/1/20,Gender,Female,6.3
+7/1/20,Gender,Male,5.7
+7/1/20,Age,Age 16-19,17.2
+7/1/20,Age,Age 20-24,10.4
+7/1/20,Age,Age 25-34,6.2
+7/1/20,Age,Age 35-44,4.3
+7/1/20,Age,Age 45-54,4.4
+7/1/20,Age,Age 55-64,5.3
+7/1/20,Age,Age 65+,4.8
+7/1/20,Race,White,5.6
+7/1/20,Race,Black,9
+7/1/20,Race,Hispanic,7
+7/1/20,Other,Veterans,4.5
+7/1/20,Education,Less than High School,8
+7/1/20,Education,High School Diploma,6.4
+7/1/20,Education,Some College or Associate Degree,5.3
+7/1/20,Education,Bachelor's Degree or Higher,3.2
+8/1/20,Gender,Female,6.6
+8/1/20,Gender,Male,6
+8/1/20,Age,Age 16-19,18
+8/1/20,Age,Age 20-24,10.5
+8/1/20,Age,Age 25-34,6.7
+8/1/20,Age,Age 35-44,4.5
+8/1/20,Age,Age 45-54,4.6
+8/1/20,Age,Age 55-64,5.6
+8/1/20,Age,Age 65+,5
+8/1/20,Race,White,5.8
+8/1/20,Race,Black,9.3
+8/1/20,Race,Hispanic,7.4
+8/1/20,Other,Veterans,4.4
+8/1/20,Education,Less than High School,8.6
+8/1/20,Education,High School Diploma,6.8
+8/1/20,Education,Some College or Associate Degree,5.5
+8/1/20,Education,Bachelor's Degree or Higher,3.4
+9/1/20,Gender,Female,7
+9/1/20,Gender,Male,6.3
+9/1/20,Age,Age 16-19,18.3
+9/1/20,Age,Age 20-24,11.1
+9/1/20,Age,Age 25-34,7.2
+9/1/20,Age,Age 35-44,4.8
+9/1/20,Age,Age 45-54,4.9
+9/1/20,Age,Age 55-64,5.8
+9/1/20,Age,Age 65+,5.4
+9/1/20,Race,White,6.2
+9/1/20,Race,Black,9.6
+9/1/20,Race,Hispanic,7.9
+9/1/20,Other,Veterans,4.5
+9/1/20,Education,Less than High School,9
+9/1/20,Education,High School Diploma,7.3
+9/1/20,Education,Some College or Associate Degree,6
+9/1/20,Education,Bachelor's Degree or Higher,3.6
+10/1/20,Gender,Female,7.3
+10/1/20,Gender,Male,6.6
+10/1/20,Age,Age 16-19,17.8
+10/1/20,Age,Age 20-24,11.3
+10/1/20,Age,Age 25-34,7.5
+10/1/20,Age,Age 35-44,5.2
+10/1/20,Age,Age 45-54,5.2
+10/1/20,Age,Age 55-64,6.1
+10/1/20,Age,Age 65+,5.5
+10/1/20,Race,White,6.4
+10/1/20,Race,Black,10.1
+10/1/20,Race,Hispanic,8.2
+10/1/20,Other,Veterans,4.8
+10/1/20,Education,Less than High School,9.5
+10/1/20,Education,High School Diploma,7.6
+10/1/20,Education,Some College or Associate Degree,6.3
+10/1/20,Education,Bachelor's Degree or Higher,3.9
+11/1/20,Gender,Female,7.6
+11/1/20,Gender,Male,7
+11/1/20,Age,Age 16-19,17.9
+11/1/20,Age,Age 20-24,11.7
+11/1/20,Age,Age 25-34,8
+11/1/20,Age,Age 35-44,5.6
+11/1/20,Age,Age 45-54,5.5
+11/1/20,Age,Age 55-64,6.3
+11/1/20,Age,Age 65+,5.9
+11/1/20,Race,White,6.8
+11/1/20,Race,Black,10.8
+11/1/20,Race,Hispanic,8.6
+11/1/20,Other,Veterans,5.3
+11/1/20,Education,Less than High School,9.9
+11/1/20,Education,High School Diploma,8.1
+11/1/20,Education,Some College or Associate Degree,6.8
+11/1/20,Education,Bachelor's Degree or Higher,4.1
+12/1/20,Gender,Female,7.9
+12/1/20,Gender,Male,7.3
+12/1/20,Age,Age 16-19,17.7
+12/1/20,Age,Age 20-24,11.8
+12/1/20,Age,Age 25-34,8.4
+12/1/20,Age,Age 35-44,5.9
+12/1/20,Age,Age 45-54,5.8
+12/1/20,Age,Age 55-64,6.6
+12/1/20,Age,Age 65+,6.1
+12/1/20,Race,White,7
+12/1/20,Race,Black,11.1
+12/1/20,Race,Hispanic,8.9
+12/1/20,Other,Veterans,5.4
+12/1/20,Education,Less than High School,10.4
+12/1/20,Education,High School Diploma,8.6
+12/1/20,Education,Some College or Associate Degree,7
+12/1/20,Education,Bachelor's Degree or Higher,4.2
+1/1/21,Gender,Female,8.2
+1/1/21,Gender,Male,7.6
+1/1/21,Age,Age 16-19,18
+1/1/21,Age,Age 20-24,12.5
+1/1/21,Age,Age 25-34,8.8
+1/1/21,Age,Age 35-44,6.1
+1/1/21,Age,Age 45-54,6
+1/1/21,Age,Age 55-64,6.9
+1/1/21,Age,Age 65+,6.3
+1/1/21,Race,White,7.3
+1/1/21,Race,Black,12
+1/1/21,Race,Hispanic,9.2
+1/1/21,Other,Veterans,5.8
+1/1/21,Education,Less than High School,10.7
+1/1/21,Education,High School Diploma,8.8
+1/1/21,Education,Some College or Associate Degree,7.5
+1/1/21,Education,Bachelor's Degree or Higher,4.5
+2/1/21,Gender,Female,8.5
+2/1/21,Gender,Male,8.2
+2/1/21,Age,Age 16-19,18.8
+2/1/21,Age,Age 20-24,13.3
+2/1/21,Age,Age 25-34,9.1
+2/1/21,Age,Age 35-44,6.7
+2/1/21,Age,Age 45-54,6.4
+2/1/21,Age,Age 55-64,7.1
+2/1/21,Age,Age 65+,6.5
+2/1/21,Race,White,7.6
+2/1/21,Race,Black,12.7
+2/1/21,Race,Hispanic,9.7
+2/1/21,Other,Veterans,6.2
+2/1/21,Education,Less than High School,11.3
+2/1/21,Education,High School Diploma,9.3
+2/1/21,Education,Some College or Associate Degree,7.9
+2/1/21,Education,Bachelor's Degree or Higher,4.7
+5/1/21,Gender,Female,7.4
+5/1/21,Gender,Male,7.4
+5/1/21,Age,Age 16-19,15.2
+5/1/21,Age,Age 20-24,12.4
+5/1/21,Age,Age 25-34,8.2
+5/1/21,Age,Age 35-44,6.3
+5/1/21,Age,Age 45-54,5.9
+5/1/21,Age,Age 55-64,5.9
+5/1/21,Age,Age 65+,4.9
+5/1/21,Race,White,6.9
+5/1/21,Race,Black,11.3
+5/1/21,Race,Hispanic,8.9
+5/1/21,Other,Veterans,5.8
+5/1/21,Education,Less than High School,9.7
+5/1/21,Education,High School Diploma,8.3
+5/1/21,Education,Some College or Associate Degree,7.3
+5/1/21,Education,Bachelor's Degree or Higher,4.3
+6/1/21,Gender,Female,7
+6/1/21,Gender,Male,7.2
+6/1/21,Age,Age 16-19,14.1
+6/1/21,Age,Age 20-24,11.9
+6/1/21,Age,Age 25-34,7.8
+6/1/21,Age,Age 35-44,6
+6/1/21,Age,Age 45-54,5.7
+6/1/21,Age,Age 55-64,5.6
+6/1/21,Age,Age 65+,5.1
+6/1/21,Race,White,6.6
+6/1/21,Race,Black,10.9
+6/1/21,Race,Hispanic,8.4
+6/1/21,Other,Veterans,5.8
+6/1/21,Education,Less than High School,9.4
+6/1/21,Education,High School Diploma,7.9
+6/1/21,Education,Some College or Associate Degree,6.8
+6/1/21,Education,Bachelor's Degree or Higher,4.2
+9/1/21,Gender,Female,6.1
+9/1/21,Gender,Male,6.5
+9/1/21,Age,Age 16-19,12.3
+9/1/21,Age,Age 20-24,10.8
+9/1/21,Age,Age 25-34,6.8
+9/1/21,Age,Age 35-44,5.5
+9/1/21,Age,Age 45-54,5.1
+9/1/21,Age,Age 55-64,4.7
+9/1/21,Age,Age 65+,4.6
+9/1/21,Race,White,5.8
+9/1/21,Race,Black,10
+9/1/21,Race,Hispanic,7.5
+9/1/21,Other,Veterans,5.4
+9/1/21,Education,Less than High School,8.6
+9/1/21,Education,High School Diploma,7.2
+9/1/21,Education,Some College or Associate Degree,6.1
+9/1/21,Education,Bachelor's Degree or Higher,3.5
+10/1/21,Gender,Female,5.9
+10/1/21,Gender,Male,6.4
+10/1/21,Age,Age 16-19,13.1
+10/1/21,Age,Age 20-24,10.7
+10/1/21,Age,Age 25-34,6.5
+10/1/21,Age,Age 35-44,5.4
+10/1/21,Age,Age 45-54,5
+10/1/21,Age,Age 55-64,4.5
+10/1/21,Age,Age 65+,4.6
+10/1/21,Race,White,5.7
+10/1/21,Race,Black,9.8
+10/1/21,Race,Hispanic,7.4
+10/1/21,Other,Veterans,5.3
+10/1/21,Education,Less than High School,8.5
+10/1/21,Education,High School Diploma,7
+10/1/21,Education,Some College or Associate Degree,5.9
+10/1/21,Education,Bachelor's Degree or Higher,3.3

@@ -9,6 +9,15 @@ library(lubridate)
 ```
 
 ```{r data}
+# from Texas Workforce Commission
+# https://texaslmi.com/LMIbyCategory/LAUS
+unemployment <- read.csv('unemployment.csv')
+
+# from Texas Workforce Commission
+# https://texaslmi.com/api/GetHomeLinks/TLMR
+unemployment_by_demographic <- read.csv('unemployment_by_demographic.csv')
+unemployment_by_demographic$Month <- mdy(unemployment_by_demographic$Month)
+
 # from Federal Reserve Bank of Dallas
 # https://www.dallasfed.org/research/econdata/tx-emp-ind.cfm#tab1
 employment_by_industry <- read.csv('employment_by_industry.csv')
@@ -16,22 +25,64 @@ employment_by_industry$date <- mdy(employment_by_industry$date)
 
 # from Texas Workforce Commission
 # https://texaslmi.com/LMIbyCategory/CES
-ces <- bind_rows(read.csv('ces_2021.csv') %>% 
-                   mutate(date = as.Date('2021-10-01')), 
-                 read.csv('ces_2020.csv') %>% 
-                   mutate(date = as.Date('2020-03-01'))) %>% 
+employment <- bind_rows(read.csv('ces_2021.csv') %>% 
+                          mutate(date = as.Date('2021-10-01')), 
+                        read.csv('ces_2020.csv') %>% 
+                          mutate(date = as.Date('2020-03-01'))) %>% 
   select(Industry, Adjustment, No..of.jobs, Hourly.Earnings, date)
 
-ces$Adjustment[ces$Adjustment == 'Adjusted'] <- T
-ces$Adjustment[ces$Adjustment == 'Not Adjusted'] <- F
-ces$Adjustment <- as.logical(ces$Adjustment)
-ces$No..of.jobs <- gsub(',', '', ces$No..of.jobs)
-ces$No..of.jobs <- as.double(ces$No..of.jobs)
-ces$Hourly.Earnings[ces$Hourly.Earnings == 'N/A'] <- NA
-ces$Hourly.Earnings <- as.double(ces$Hourly.Earnings)
+employment$Adjustment[employment$Adjustment == 'Adjusted'] <- T
+employment$Adjustment[employment$Adjustment == 'Not Adjusted'] <- F
+employment$Adjustment <- as.logical(employment$Adjustment)
+employment$No..of.jobs <- gsub(',', '', employment$No..of.jobs)
+employment$No..of.jobs <- as.double(employment$No..of.jobs)
+employment$Hourly.Earnings[employment$Hourly.Earnings == 'N/A'] <- NA
+employment$Hourly.Earnings <- as.double(employment$Hourly.Earnings)
 
-ces <- ces %>% 
+employment <- employment %>% 
   rename(industry = Industry, adjusted = Adjustment, jobs = No..of.jobs, hourly_wages = Hourly.Earnings)
+
+# from Bureau of Labor Statistics
+# https://data.bls.gov/PDQWeb/jt
+job_openings <- read.csv('job_openings.csv') %>% 
+  pivot_longer(!Year, names_to = 'month', values_to = 'job_openings') %>% 
+  mutate(date = mdy(paste0(c(1:12, 1:12, 1:12, 1:12, 1:12, 1:12, 
+                             1:12, 1:12, 1:12, 1:12, 1:12), '/01', Year))) %>% 
+  select(date, job_openings) %>% 
+  bind_cols(., read.csv('job_openings_raw.csv') %>% 
+  pivot_longer(!Year, names_to = 'month', values_to = 'job_openings_raw') %>% 
+  mutate(date = mdy(paste0(c(1:12, 1:12, 1:12, 1:12, 1:12, 1:12, 
+                             1:12, 1:12, 1:12, 1:12, 1:12), '/01', Year)),
+         job_openings_raw = job_openings_raw * 1000) %>% 
+  select(job_openings_raw))
+
+hires <- read.csv('hires.csv') %>% 
+  pivot_longer(!Year, names_to = 'month', values_to = 'hires') %>% 
+  mutate(date = mdy(paste0(c(1:12, 1:12, 1:12, 1:12, 1:12, 1:12, 
+                             1:12, 1:12, 1:12, 1:12, 1:12), '/01', Year))) %>% 
+  select(date, hires) %>% 
+  bind_cols(., read.csv('hires_raw.csv') %>% 
+  pivot_longer(!Year, names_to = 'month', values_to = 'hires_raw') %>% 
+  mutate(date = mdy(paste0(c(1:12, 1:12, 1:12, 1:12, 1:12, 1:12, 
+                             1:12, 1:12, 1:12, 1:12, 1:12), '/01', Year)),
+         hires_raw = hires_raw * 1000) %>% 
+  select(hires_raw))
+
+separations <- read.csv('separations.csv') %>% 
+  pivot_longer(!Year, names_to = 'month', values_to = 'separations') %>% 
+  mutate(date = mdy(paste0(c(1:12, 1:12, 1:12, 1:12, 1:12, 1:12, 
+                             1:12, 1:12, 1:12, 1:12, 1:12), '/01', Year))) %>% 
+  select(date, separations) %>% 
+  bind_cols(., read.csv('separations_raw.csv') %>% 
+  pivot_longer(!Year, names_to = 'month', values_to = 'separations_raw') %>% 
+  mutate(date = mdy(paste0(c(1:12, 1:12, 1:12, 1:12, 1:12, 1:12, 
+                             1:12, 1:12, 1:12, 1:12, 1:12), '/01', Year)),
+         separations_raw = separations_raw * 1000) %>% 
+  select(separations_raw))
+
+jolts <- bind_cols(job_openings, hires, separations) %>% 
+  select(-date...4, -date...7) %>% 
+  rename(date = date...1)
 ```
 
 ```{r employment_by_industry}
@@ -50,12 +101,68 @@ employment_by_industry %>%
   filter(date == as.Date('2021-10-01')) %>% 
   arrange(pct_change)
 
-ces %>% 
+# calculate percent change in jobs and wages from March 2020 to October 2021
+employment %>% 
   filter(!is.na(hourly_wages)) %>% 
   group_by(industry) %>% 
   arrange(date) %>% 
   mutate(jobs_pct_change = (jobs - lag(jobs)) / lag(jobs) * 100,
          wages_pct_change = (hourly_wages - lag(hourly_wages)) / lag(hourly_wages) * 100) %>% 
   filter(date == as.Date('2021-10-01')) %>% 
-  select(industry, jobs, jobs_pct_change, hourly_wages, wages_pct_change)
+  select(industry, jobs, jobs_pct_change, hourly_wages, wages_pct_change) %>% 
+  arrange(jobs_pct_change)
+
+jolts %>% 
+  filter(date >= as.Date('2020-01-01'), date <= as.Date('2021-09-01')) %>% 
+  mutate(net = hires_raw - separations_raw) %>% 
+  summarize(net = sum(net))
+```
+
+```{r viz}
+unemployment %>% 
+  mutate(date = mdy(paste0(c(1:12, 1:10), '/01/', Year))) %>% 
+  ggplot(data = ., mapping = aes(x = date, y = Unemployment.Rate)) +
+  geom_line() + 
+  theme_classic()
+
+unemployment_by_demographic %>% 
+  filter(Group == 'Education') %>% 
+  ggplot(data = ., mapping = aes(x = Month, y = Unemployment)) +
+  geom_line() +
+  facet_grid(. ~ Demographic)
+
+employment
+
+employment_by_industry %>% 
+  filter(industry %in% c('federal government', 'state government', 'local government')) %>% 
+  mutate(sign = ifelse(pct_change >= 0, 'positive', 'negative')) %>% 
+  ggplot(data = ., mapping = aes(x = date, y = pct_change, fill = sign)) +
+  geom_bar(stat = 'identity') +
+  facet_wrap(. ~ industry) +
+  scale_fill_manual(values = c('positive' = 'blue', 'negative' = 'red')) +
+  theme(legend.position = 'none')
+
+ggplot(data = job_openings, mapping = aes(x = date, y = job_openings)) +
+  geom_line() +
+  geom_vline(xintercept = as.Date('2020-04-01'), linetype = 'dotted') +
+  expand_limits(y = c(0,10)) +
+  theme_classic()
+
+ggplot(data = hires, mapping = aes(x = date, y = hires)) +
+  geom_line() +
+  geom_vline(xintercept = as.Date('2020-04-01'), linetype = 'dotted') +
+  expand_limits(y = c(0,10)) +
+  theme_classic()
+
+ggplot(data = separations, mapping = aes(x = date, y = separations)) +
+  geom_line() +
+  geom_vline(xintercept = as.Date('2020-04-01'), linetype = 'dotted') +
+  expand_limits(y = c(0,10)) +
+  theme_classic()
+
+jolts %>% 
+  filter(year(date) >= 2020, date <= as.Date('2021-09-01')) %>% 
+  ggplot(data = ., mapping = aes(x = date)) +
+  geom_line(mapping = aes(y = hires), color = 'blue') +
+  geom_line(mapping = aes(y = separations), color = 'red')
 ```
