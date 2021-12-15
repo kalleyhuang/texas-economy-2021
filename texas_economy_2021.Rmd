@@ -11,7 +11,11 @@ library(lubridate)
 ```{r data}
 # from Texas Workforce Commission
 # https://texaslmi.com/LMIbyCategory/LAUS
-unemployment <- read.csv('unemployment.csv')
+unemployment <- read.csv('unemployment.csv') %>% 
+  mutate(date = mdy(paste0(c(1:12, 1:10), '/01', Year)), 
+         Employment = as.double(gsub(',', '', Employment)),
+         Civilian.Labor.Force = as.double(gsub(',', '', Civilian.Labor.Force)),
+         Unemployment = as.double(gsub(',', '', Unemployment)))
 
 # from Texas Workforce Commission
 # https://texaslmi.com/api/GetHomeLinks/TLMR
@@ -113,9 +117,18 @@ employment %>%
   arrange(jobs_pct_change)
 
 jolts %>% 
+  arrange(desc(job_openings))
+
+jolts %>% 
+  arrange(desc(hires))
+
+jolts %>% 
   filter(date >= as.Date('2020-01-01'), date <= as.Date('2021-09-01')) %>% 
-  mutate(net = hires_raw - separations_raw) %>% 
-  summarize(net = sum(net))
+  bind_cols(., unemployment %>% 
+              filter(date <= as.Date('2021-09-01')) %>% 
+              select(date, Unemployment)) %>% 
+  select(date...1, job_openings_raw, Unemployment) %>% 
+  mutate(net = job_openings_raw - Unemployment)
 ```
 
 ```{r viz}
@@ -130,8 +143,6 @@ unemployment_by_demographic %>%
   ggplot(data = ., mapping = aes(x = Month, y = Unemployment)) +
   geom_line() +
   facet_grid(. ~ Demographic)
-
-employment
 
 employment_by_industry %>% 
   filter(industry %in% c('federal government', 'state government', 'local government')) %>% 
@@ -163,6 +174,18 @@ ggplot(data = separations, mapping = aes(x = date, y = separations)) +
 jolts %>% 
   filter(year(date) >= 2020, date <= as.Date('2021-09-01')) %>% 
   ggplot(data = ., mapping = aes(x = date)) +
-  geom_line(mapping = aes(y = hires), color = 'blue') +
-  geom_line(mapping = aes(y = separations), color = 'red')
+  geom_line(mapping = aes(y = hires, color = 'blue')) +
+  geom_line(mapping = aes(y = separations, color = 'red'))
+
+jolts %>% 
+  filter(date >= as.Date('2020-01-01'), date <= as.Date('2021-09-01')) %>% 
+  bind_cols(., unemployment %>% 
+              filter(date <= as.Date('2021-09-01')) %>% 
+              select(date, Unemployment)) %>% 
+  select(date...1, job_openings_raw, Unemployment) %>% 
+  ggplot(data = ., mapping = aes(x = date...1)) +
+  geom_line(mapping = aes(y = job_openings_raw, color = 'job_openings_raw')) +
+  geom_line(mapping = aes(y = Unemployment, color = 'Unemployment')) +
+  scale_color_manual(breaks = c('job_openings_raw', 'Unemployment'), values = c('blue', 'red')) +
+  theme_classic()
 ```
